@@ -103,7 +103,7 @@ const styles = StyleSheet.create({
   },
   blur: {
     position: "absolute",
-    backgroundColor: "rgba(255,255,255, 0.8)",
+    backgroundColor: "rgba(255,255,255, 1)",
     top: 0,
     left: 0,
     bottom: 0,
