@@ -34,7 +34,7 @@ Install the library using npm or yarn:
 $ npm install MssMaster/react-native-dialog --save
 
 # using yarn
-$ yarn add react-native-dialog
+$ yarn add MssMaster/react-native-dialog
 ```
 
 ## Usage
